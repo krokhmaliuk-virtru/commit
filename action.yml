@@ -1,4 +1,4 @@
-name: Verified Commit
+name: Verified Commit Updated
 description: GitHub Action to create verified commits
 inputs:
   files:
